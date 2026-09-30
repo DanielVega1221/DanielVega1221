@@ -87,7 +87,7 @@ impresionante.** Entender el caso que está adelante y qué necesita es la mitad
 ## Contacto
 
 <p align="center">
-  <a href="mailto:TUEMAIL@ejemplo.com">Escribime</a> · <a href="https://www.linkedin.com/in/gonzalo-daniel-vega/">LinkedIn</a> · <a href="TU-CV-URL">CV (PDF)</a>
+  <a href="mailto:dvega6442@gmail.com">Escribime</a> · <a href="https://www.linkedin.com/in/gonzalo-daniel-vega/">LinkedIn</a> · <a href="http://gonzalodanielvega.com/cv-es.pdf">CV (PDF)</a>
 </p>
 
 <br>
@@ -176,5 +176,5 @@ Understanding the case in front of you and what it needs is half the job.
 ## Get in touch
 
 <p align="center">
-  <a href="mailto:TUEMAIL@ejemplo.com">Email me</a> · <a href="https://www.linkedin.com/in/gonzalo-daniel-vega/">LinkedIn</a> · <a href="TU-CV-URL">CV (PDF)</a>
+  <a href="mailto:dvega6442@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/gonzalo-daniel-vega/">LinkedIn</a> · <a href="https://www.gonzalodanielvega.com/cv-en.pdf">CV (PDF)</a>
 </p>
